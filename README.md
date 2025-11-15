@@ -72,15 +72,6 @@ This project demonstrates how AI can support marine conservation by identifying 
 
 ---
 
-## 📊 Results (Add your own values)
-
-| Metric | Value |
-|--------|--------|
-| Training Accuracy | XX% |
-| Validation Accuracy | XX% |
-| Test Accuracy | XX% |
-
----
 
 ## 🧩 Future Improvements
 
